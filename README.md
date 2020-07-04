@@ -1,5 +1,7 @@
 ## Rust for GMod 
 
+See https://github.com/SpiralP/rust-glua-sys for a more recent take
+
 ### Why
 - Easier cross platform library creation (good for eg. file IO or using libraries that are in cargo)
 
